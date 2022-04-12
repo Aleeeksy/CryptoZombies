@@ -1,0 +1,27 @@
+{
+  "name": "cryptozombies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "web3": "^1.7.3",
+    "chai": "^4.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleeeksy/CryptoZombies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleeeksy/CryptoZombies/issues"
+  },
+  "homepage": "https://github.com/Aleeeksy/CryptoZombies#readme"
+}
